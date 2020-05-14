@@ -27,7 +27,7 @@ enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 title = "Subscribe to our mailing list"
 [params.hero]
-bg = "images/header-bg.jpg"
+bg = "/images/img_20200512_205451.jpg"
 btnText = "Get Started"
 countdownDay = "31"
 countdownMonth = "12"
