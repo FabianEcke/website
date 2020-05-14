@@ -12,7 +12,7 @@ heading = "ABOUT Title"
 [[params.about.sliderItem]]
 image = "/images/hannah-grace-uw6fmtqtvjm-unsplash.jpg"
 [[params.about.sliderItem]]
-image = "images/about/2.jpg"
+image = "/images/sorted.jpg"
 [[params.about.sliderItem]]
 image = "images/about/3.jpg"
 [[params.about.sliderItem]]
