@@ -40,7 +40,7 @@ title = "BRING YOUR PRODUCT TO LIGHT"
 about = "Über"
 contact = "Kontakt"
 home = "Startseite"
-logo = "/images/img-20200316-wa0021.jpg"
+logo = "/images/fte.1.png"
 service = "Service"
 [params.service]
 enable = true
