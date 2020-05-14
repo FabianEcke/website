@@ -6,11 +6,11 @@ title = ""
 [params]
 customHead = ""
 [params.about]
-description = "Text über"
+description = "ABOUT Description"
 enable = true
-heading = "Überschrift über"
+heading = "ABOUT Title"
 [[params.about.sliderItem]]
-image = "images/about/1.jpg"
+image = "/images/hannah-grace-uw6fmtqtvjm-unsplash.jpg"
 [[params.about.sliderItem]]
 image = "images/about/2.jpg"
 [[params.about.sliderItem]]
