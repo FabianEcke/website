@@ -24,8 +24,8 @@ title = "CONTACT Title"
 [params.cta]
 bg = "/images/img_20200512_205451.jpg"
 enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-title = "Subscribe to our mailing list"
+subtitle = "CTA Subtitle"
+title = "CTA Title"
 [params.hero]
 bg = "/images/img_20200512_205451.jpg"
 btnText = "Hero Button"
