@@ -28,14 +28,14 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 title = "Subscribe to our mailing list"
 [params.hero]
 bg = "/images/img_20200512_205451.jpg"
-btnText = "Get Started"
+btnText = "Hero Button"
 countdownDay = "31"
 countdownMonth = "12"
 countdownYear = "2020"
 disableCountdown = false
 enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-title = "BRING YOUR PRODUCT TO LIGHT"
+subtitle = "HERO Subtitle"
+title = "HERO TITLE"
 [params.navigation]
 about = "Über"
 contact = "Kontakt"
