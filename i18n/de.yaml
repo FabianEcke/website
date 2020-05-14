@@ -1,0 +1,40 @@
+about:
+  other: about
+allRightReserved:
+  other: "Alle Rechte vorbehalten"
+contact:
+  other: contact
+contactMessageError:
+  other: "Ihre Nachricht konnte nicht übermittelt werden."
+contactMessageSuccess:
+  other: "Ihre Nachricht wurde erfolgreich gesendet."
+content:
+  other: content
+copyright:
+  other: "Copyright"
+days:
+  other: "Tage"
+emailAddress:
+  other: "fabianecke@gmx.de"
+home:
+  other: home
+hours:
+  other: "Stunden"
+minutes:
+  other: "Minuten"
+seconds:
+  other: "Sekunden"
+sendMe:
+  other: "Senden"
+service:
+  other: service
+sliderImage:
+  other: "Slider image"
+subscribe:
+  other: "Abbonieren"
+yourEmailAddressHere:
+  other: "Ihre E-Mail Adresse"
+yourMessage:
+  other: "Nachricht"
+yourName:
+  other: "Ihr Name"
