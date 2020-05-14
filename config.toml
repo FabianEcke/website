@@ -22,7 +22,7 @@ enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
 title = "Get In Touch"
 [params.cta]
-bg = "images/call-to-action.jpg"
+bg = "/images/img_20200512_205451.jpg"
 enable = true
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 title = "Subscribe to our mailing list"
