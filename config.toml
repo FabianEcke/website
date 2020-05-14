@@ -1,8 +1,3 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Title"
-theme = "infinity-hugo"
-
 baseURL = "https://fte-13.netlify.app"
 languageCode = "de-de"
 title = ""
