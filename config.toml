@@ -44,8 +44,8 @@ logo = "/images/fte.1.png"
 service = "Service"
 [params.service]
 enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
-title = "Find Better Solutions Build Better Products"
+subtitle = "SERVICE Subtitle"
+title = "SERVICE Title"
 [[params.service.serviceItem]]
 delay = "0s"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
