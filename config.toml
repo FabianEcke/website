@@ -22,7 +22,7 @@ enable = true
 subtitle = "CONTACT Subtitle"
 title = "CONTACT Title"
 [params.cta]
-bg = "/images/IMG_20200512_205451.jpg"
+bg = "/images/lapis.jpg"
 enable = true
 subtitle = "CTA Subtitle"
 title = "CTA Title"
