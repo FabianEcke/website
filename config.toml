@@ -1,21 +1,19 @@
+DefaultContentLanguage = "de"
 baseURL = "https://fte-13.netlify.app"
+copyright = "Everything is mine"
 languageCode = "de"
 removePathAccents = true
 theme = "infinity-hugo"
+title = "FTE"
+[languages.de]
 title = "FTE13 DJ"
-DefaultContentLanguage = "de"
-copyright = "Everything is mine"
-
-[languages]
-  [languages.de]
-    title = "FTE13 DJ"
-    weight = 1
+weight = 1
 [params]
 customHead = ""
 [params.about]
 description = "ABOUT Description"
 enable = true
-heading = "ABOUT Title"
+heading = "Über mich"
 [[params.about.sliderItem]]
 image = "/images/hannah-grace-uw6fmtqtvjm-unsplash.jpg"
 [[params.about.sliderItem]]
