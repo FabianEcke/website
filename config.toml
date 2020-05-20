@@ -39,7 +39,7 @@ countdownMonth = "12"
 countdownYear = "2020"
 disableCountdown = true
 enable = true
-subtitle = "Entwickler, Designer & DJ"
+subtitle = "Entwickler & Designer"
 title = "FTE"
 [params.navigation]
 about = "Über"
