@@ -1,3 +1,6 @@
 [submodule "infinity-hugo"]
 	path = infinity-hugo
 	url = https://github.com/FabianEcke/infinity-hugo
+[submodule "themes/infinity-hugo"]
+	path = themes/infinity-hugo
+	url = https://github.com/FabianEcke/infinity-hugo
