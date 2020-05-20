@@ -38,7 +38,7 @@ title = "FTE"
 about = "Über"
 contact = "Kontakt"
 home = "Startseite"
-logo = "/images/fte.1.png"
+logo = "/images/logo-transparent.png"
 service = "Service"
 [params.service]
 enable = true
