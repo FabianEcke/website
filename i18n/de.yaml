@@ -1,40 +1,41 @@
+---
 about:
   other: about
 allRightReserved:
-  other: "Alle Rechte vorbehalten"
+  other: ''
 contact:
   other: contact
 contactMessageError:
-  other: "Ihre Nachricht konnte nicht übermittelt werden."
+  other: Ihre Nachricht konnte nicht übermittelt werden.
 contactMessageSuccess:
-  other: "Ihre Nachricht wurde erfolgreich gesendet."
+  other: Ihre Nachricht wurde erfolgreich gesendet.
 content:
   other: content
 copyright:
-  other: "Copyright"
+  other: Copyright
 days:
-  other: "Tage"
+  other: Tage
 emailAddress:
-  other: "fabianecke@gmx.de"
+  other: fabianecke@gmx.de
 home:
   other: home
 hours:
-  other: "Stunden"
+  other: Stunden
 minutes:
-  other: "Minuten"
+  other: Minuten
 seconds:
-  other: "Sekunden"
+  other: Sekunden
 sendMe:
-  other: "Senden"
+  other: Senden
 service:
   other: service
 sliderImage:
-  other: "Slider image"
+  other: Slider image
 subscribe:
-  other: "Abbonieren"
+  other: Abbonieren
 yourEmailAddressHere:
-  other: "Ihre E-Mail Adresse"
+  other: Ihre E-Mail Adresse
 yourMessage:
-  other: "Nachricht"
+  other: Nachricht
 yourName:
-  other: "Ihr Name"
+  other: Ihr Name
