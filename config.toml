@@ -1,5 +1,5 @@
 DefaultContentLanguage = "de"
-baseURL = "https://fte.netlify.app"
+baseURL = "https://fte-13.netlify.app"
 copyright = "Copyright © FTE 2020"
 languageCode = "de"
 removePathAccents = true
