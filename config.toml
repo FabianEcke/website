@@ -17,8 +17,8 @@ heading = "Über mich"
 sliderItem = []
 [params.contact]
 enable = true
-subtitle = "CONTACT Subtitle"
-title = "CONTACT Title"
+subtitle = "kontaktieren Sie mich hier:"
+title = "Kontakt"
 [params.cta]
 bg = "/images/lapis.jpg"
 enable = true
