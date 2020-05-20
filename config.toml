@@ -39,8 +39,8 @@ countdownMonth = "12"
 countdownYear = "2020"
 disableCountdown = false
 enable = true
-subtitle = "HERO Subtitle"
-title = "HERO TITLE"
+subtitle = "Entwickler, Designer & DJ"
+title = "FTE"
 [params.navigation]
 about = "Über"
 contact = "Kontakt"
