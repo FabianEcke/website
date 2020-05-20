@@ -14,14 +14,7 @@ customHead = ""
 description = "Ich bin in meiner Freizeit als Entwickler und Designer unterwegs. Im [LXDB](https://web.lxdb.de)-Team arbeite ich an vielen Projekten mit und bin hauptsächlich mit [Arduino](https://www.arduino.cc) beschäftigt."
 enable = true
 heading = "Über mich"
-[[params.about.sliderItem]]
-image = "/images/hannah-grace-uw6fmtqtvjm-unsplash.jpg"
-[[params.about.sliderItem]]
-image = "/images/sorted.jpg"
-[[params.about.sliderItem]]
-image = "images/cn.jpg"
-[[params.about.sliderItem]]
-image = "images/about/2.jpg"
+sliderItem = []
 [params.contact]
 enable = true
 subtitle = "CONTACT Subtitle"
