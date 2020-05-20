@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: i18n/de.yaml
+  label: i18n de
+  match: "**/*"
+- type: document
   path: config.toml
   label: Config
 upload_dir: static/images
