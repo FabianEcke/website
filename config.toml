@@ -32,7 +32,7 @@ enable = true
 subtitle = "CTA Subtitle"
 title = "CTA Title"
 [params.hero]
-bg = ""
+bg = "/images/img_20200512_205451.jpg"
 btnText = "Hero Button"
 countdownDay = "31"
 countdownMonth = "12"
