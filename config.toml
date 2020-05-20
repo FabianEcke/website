@@ -21,9 +21,9 @@ subtitle = "kontaktieren Sie mich hier:"
 title = "Kontakt"
 [params.cta]
 bg = "/images/lapis.jpg"
-enable = true
-subtitle = "CTA Subtitle"
-title = "CTA Title"
+enable = false
+subtitle = ""
+title = ""
 [params.hero]
 bg = "/images/img_20200512_205451.jpg"
 btnText = "Services"
