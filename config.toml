@@ -6,7 +6,7 @@ removePathAccents = true
 theme = "infinity-hugo"
 title = "FTE"
 [languages.de]
-title = "FTE13 DJ"
+title = "FTE"
 weight = 1
 [params]
 customHead = ""
