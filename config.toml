@@ -51,10 +51,10 @@ btnText = "Services"
 countdownDay = "31"
 countdownMonth = "12"
 countdownYear = "2020"
-disableCountdown = true
+disableCountdown = false
 enable = true
 subtitle = "Entwickler & Designer"
-title = "FTE"
+title = "Fabian Ecke"
 [params.navigation]
 about = "Über"
 contact = "Kontakt"
