@@ -27,8 +27,8 @@ title = "FTE - Website"
 9 = " "
 other = "Copyright © FTE"
 [languages.de]
-title = "FTE"
 contentDir = "content"
+title = "FTE"
 weight = 1
 [params]
 customHead = ""
@@ -64,8 +64,8 @@ logo = "/images/logo-transparent.png"
 service = "Service"
 [params.service]
 enable = true
-subtitle = "SERVICE Subtitle"
-title = "SERVICE Title"
+subtitle = ""
+title = "Services"
 [[params.service.serviceItem]]
 delay = "0s"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
