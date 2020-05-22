@@ -73,6 +73,6 @@ icon = "tf-strategy"
 title = "Arduino"
 [[params.service.serviceItem]]
 delay = "0.2s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+description = "Ich bin auf das Feedback von meinen Zuschauern angewiesen. Ich gehe gerne auf Projektwünsche und Anfragen für bestimmte Programme ein und werde sie auch im Rahmen meiner Möglichkeiten bearbeiten."
 icon = "tf-circle-compass"
-title = "Speed Optimized"
+title = "Feedback"
