@@ -69,7 +69,7 @@ title = "Services"
 [[params.service.serviceItem]]
 delay = "0s"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-strategy"
+icon = "tf-documents"
 title = "Fully Responsive"
 [[params.service.serviceItem]]
 delay = "0.2s"
