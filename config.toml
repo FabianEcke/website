@@ -68,7 +68,7 @@ subtitle = ""
 title = "Services"
 [[params.service.serviceItem]]
 delay = "0s"
-description = "Auf den Youtube-Kanälen [LXDB](https://web.lxdb.de) und meinem eigenen -f_t_e stelle ich Videos und Tutorials rund um das Thema Arduino & selbstgebaute Alltags-Mittel."
+description = "Auf den Youtube-Kanälen LXDB und meinem eigenen -f_t_e stelle ich Videos und Tutorials rund um das Thema Arduino & selbstgebaute Alltags-Mittel online."
 icon = "tf-strategy"
 title = "Arduino"
 [[params.service.serviceItem]]
