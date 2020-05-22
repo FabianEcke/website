@@ -1,41 +1,40 @@
----
-about:
-  other: about
-allRightReserved:
-  other: ''
-contact:
-  other: contact
-contactMessageError:
-  other: Ihre Nachricht konnte nicht übermittelt werden.
-contactMessageSuccess:
-  other: Ihre Nachricht wurde erfolgreich gesendet.
-content:
-  other: content
-copyright:
-  other: Copyright
-days:
-  other: Tage
-emailAddress:
-  other: fabianecke@gmx.de
-home:
-  other: home
-hours:
-  other: Stunden
-minutes:
-  other: Minuten
-seconds:
-  other: Sekunden
-sendMe:
-  other: Senden
-service:
-  other: service
-sliderImage:
-  other: Slider image
-subscribe:
-  other: Abbonieren
-yourEmailAddressHere:
-  other: Ihre E-Mail Adresse
-yourMessage:
-  other: Nachricht
-yourName:
-  other: Ihr Name
+- id: about
+  translation: about
+- id: allRightReserved
+  translation: ''
+- id: contact
+  translation: contact
+- id: contactMessageError
+  translation: Ihre Nachricht konnte nicht übermittelt werden.
+- id: contactMessageSuccess
+  translation: Ihre Nachricht wurde erfolgreich gesendet.
+- id: content
+  translation: content
+- id: copyright
+  translation: Copyright
+- id: days
+  translation: Tage
+- id: emailAddress
+  translation: fabianecke@gmx.de
+- id: home
+  translation: home
+- id: hours
+  translation: Stunden
+- id: minutes
+  translation: Minuten
+- id: seconds
+  translation: Sekunden
+- id: sendMe
+  translation: Senden
+- id: service
+  translation: service
+- id: sliderImage
+  translation: Slider image
+- id: subscribe
+  translation: Abbonieren
+- id: yourEmailAddressHere
+  translation: Ihre E-Mail Adresse
+- id: yourMessage
+  translation: Nachricht
+- id: yourName
+  translation: Ihr Name
