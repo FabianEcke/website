@@ -74,5 +74,5 @@ title = "Arduino"
 [[params.service.serviceItem]]
 delay = "0.2s"
 description = "Ich bin auf das Feedback von meinen Zuschauern angewiesen. Ich gehe gerne auf Projektwünsche und Anfragen für bestimmte Programme ein und werde sie auch im Rahmen meiner Möglichkeiten bearbeiten."
-icon = "ti-youtube"
+icon = "tf-strategy "
 title = "Feedback"
