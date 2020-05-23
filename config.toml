@@ -69,7 +69,7 @@ title = "Services"
 [[params.service.serviceItem]]
 delay = "0s"
 description = "Auf den Youtube-Kanälen LXDB und meinem eigenen - f_t_e stelle ich Videos und Tutorials rund um das Thema Arduino & selbstgebaute Alltags-Mittel online."
-icon = "tf-pulse"
+icon = "tf-ion-ios-people"
 title = "Arduino"
 [[params.service.serviceItem]]
 delay = "0.2s"
