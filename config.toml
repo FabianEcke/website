@@ -3,7 +3,7 @@ baseURL = "https://fte-13.netlify.app"
 languageCode = "de"
 removePathAccents = true
 theme = "infinity-hugo"
-title = "FTE - Website"
+title = "FTE"
 [copyright]
 0 = "C"
 1 = "o"
