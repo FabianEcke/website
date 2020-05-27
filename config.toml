@@ -33,7 +33,7 @@ weight = 1
 [params]
 customHead = ""
 [params.about]
-description = "Ich bin in meiner Freizeit als Entwickler und Designer unterwegs. Im [LXDB](https://web.lxdb.de)-Team arbeite ich an vielen Projekten mit und bin hauptsächlich mit [Arduino](https://www.arduino.cc) beschäftigt."
+description = "Ich bin in meiner Freizeit als Entwickler und Designer unterwegs. Ich bin Mitgründer des [LXDB](https://web.lxdb.de)-Teams und bin dort hauptsächlich für die Uploads im Bereich Arduino zuständig. "
 enable = true
 heading = "Über mich"
 sliderItem = []
