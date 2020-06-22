@@ -47,7 +47,7 @@ enable = false
 subtitle = ""
 title = ""
 [params.hero]
-bg = "/images/img_20200512_205451.jpg"
+bg = "/images/img_0065.JPG"
 btnText = "Services"
 countdownDay = "31"
 countdownMonth = "12"
